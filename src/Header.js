@@ -14,10 +14,10 @@ const Header = () => {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav" style={{ marginLeft: "500px" }}>
-                        <a class="nav-link active" id="navItem1" href="http://localhost:3000/#service">services</a>
-                        <a class="nav-link" href="http://localhost:3000/#about" id="navItem2">About</a>
+                        <a class="nav-link active" id="navItem1" href="https://shivportfolio.vercel.app/#service">services</a>
+                        <a class="nav-link" href="https://shivportfolio.vercel.app/#about" id="navItem2">About</a>
                         <Link to="/projects" style={{ color: "gray", fontWeight: "500", padding: "6px", textDecoration: "none" }}>Projects</Link>
-                        <a class="nav-link" href="http://localhost:3000/#followUsSection" id="navItem4">Contact Me</a>
+                        <a class="nav-link" href="https://shivportfolio.vercel.app/#followUsSection" id="navItem4">Contact Me</a>
                     </div>
                 </div>
             </div>
