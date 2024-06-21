@@ -11,7 +11,7 @@ const Home = () => {
       
         <>
            
-            <div class="banner-section-bg-container d-flex justify-content-center flex-column">
+            <div class="banner-section-bg-container d-flex justify-content-center flex-column" style={{marginTop:"50px"}}>
                 <div className="overlay">
                     <div className="intro text-center">
                         <h1>Welcome to MY Portfolio</h1>

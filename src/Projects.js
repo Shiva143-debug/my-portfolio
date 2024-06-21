@@ -110,7 +110,7 @@ const Projects = () => {
   const eCommApplications = projects.filter(project => project.category === 'E-commerce Application');
 
     return (
-        <section className="projects-section" style={{backgroundColor:"whitesmoke"}}>
+        <section className="projects-section" style={{backgroundColor:"whitesmoke",marginTop:"100px"}}>
             <h1 className='text-center'>Projects</h1>
           <div>
 
