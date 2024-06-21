@@ -15,6 +15,7 @@ const Home = () => {
                 <div className="overlay">
                     <div className="intro text-center">
                         <h1>Welcome to MY Portfolio</h1>
+                       
                         <p style={{ fontSize: "20px" }}>I am a passionate web developer dedicated to creating modern, responsive websites that provide a seamless user experience.</p>
                         <p>Explore my work and services below, and feel free to get in touch!</p>
                     </div>

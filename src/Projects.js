@@ -1,42 +1,7 @@
-// import React from 'react';
 
-// const projects = [
-//   {
-//     name: 'Project One',
-//     description: 'This is a description of project one.',
-//     url: '#'
-//   },
-//   {
-//     name: 'Project Two',
-//     description: 'This is a description of project two.',
-//     url: '#'
-//   },
-//   // Add more projects as needed
-// ];
-
-// const Projects = () => {
-//   return (
-//     <section id="projects">
-//       <h2>Projects</h2>
-//       <ul>
-//         {projects.map(project => (
-//           <li key={project.name}>
-//             <h3>{project.name}</h3>
-//             <p>{project.description}</p>
-//             <a href={project.url}>View Project</a>
-//           </li>
-//         ))}
-//       </ul>
-//     </section>
-//   );
-// };
-
-// export default Projects;
-
-// Projects.js
 import React from 'react';
 import ProjectCard from './ProjectCard';
-// import './Projects.css'; // Assuming you have CSS for this component
+
 
 const Projects = () => {
     const projects = [
@@ -53,7 +18,7 @@ const Projects = () => {
         description: 'The "Expenditure Application" is a financial management tool designed to help users track and manage their expenses efficiently.',
         category: 'Web Application',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718462773/expense-app-2-1024x512_a8gg5m.jpg',
-        link: 'https://expenditureaapp-v3sp.vercel.app/'
+        link: 'https://exp-app.vercel.app/'
       },
       {
         title: 'YouTube Clone',
