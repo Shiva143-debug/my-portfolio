@@ -25,14 +25,14 @@ const Projects = () => {
         description: 'A video-sharing platform where users can upload, view, and comment on videos.',
         category: 'frontend',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547014/0dfe05d1f843d2705c096b93ccb80e54_original_u42j1g.jpg',
-        link: 'https://nxtyoushiva.ccbp.tech/'
+        link: 'https://youtubecln.vercel.app/home'
       },
       {
         title: 'JobbyApp',
         description: 'A job search application where users can find and apply for job openings.',
         category: 'frontend',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718546328/jobby-app-jobs-success-lg-output-v0_vb2df6.png',
-        link: 'https://jobbyshivaa.ccbp.tech/'
+        link: 'https://job-ap.vercel.app/home'
       },
       {
         title: 'Instaram Clone',
