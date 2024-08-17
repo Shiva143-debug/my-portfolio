@@ -89,7 +89,7 @@ const Projects = () => {
           description:  'A general website featuring university information, testimonials, and services related to the PayInstaCard platform.',
           category: 'Website',
           image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548305/1708863287801_yzegzq.jpg',
-          link: 'https://payinstacardas.ccbp.tech/'
+          link: 'https://payinsta.vercel.app/'
         },
         {
           title: 'CommLAB Website',
