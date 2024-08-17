@@ -60,7 +60,7 @@ const Projects = () => {
         description: 'An informational website for the Association of Chartered Certified Accountants (ACCA) providing resources, membership details, and examination information.',
         category: 'Website',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718548099/download_exh15s.jpg',
-        link: 'https://medi-3dpk.vercel.app/'
+        link: 'https://medi-mocha.vercel.app/'
       },
 
         {
@@ -75,7 +75,7 @@ const Projects = () => {
           description: 'A comprehensive platform providing trip details, itineraries, and secure payment methods for booking your next adventure.',
           category: 'Website',
           image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550304/download_1_xaddfy.jpg',
-          link: 'https://travelunbound.ccbp.tech/'
+          link: 'https://traveltourism.vercel.app/'
         },
         {
           title: 'PayInstaCard Website',
