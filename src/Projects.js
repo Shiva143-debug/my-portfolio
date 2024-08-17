@@ -46,7 +46,7 @@ const Projects = () => {
         description: 'A website offering a wide range of recipes, cooking tips, and food reviews for culinary enthusiasts.',
         category: 'Website',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548993/images_sie7bm.jpg',
-        link: 'https://foodmunch.vercel.app/'
+        link: 'https://restuarentap.ccbp.tech/'
       },
       {
         title: 'IPL DashBoard Website',
