@@ -35,7 +35,7 @@ const Projects = () => {
         link: 'https://job-ap.vercel.app/home'
       },
       {
-        title: 'Instaram Clone',
+        title: 'Instagram Clone',
         description: 'A social media platform where users can share photos, follow others, and interact through likes and comments.',
         category: 'frontend',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718546491/alexander-shatov-71qk8odibko-unsplash-1_k1cxqs.webp',
@@ -54,6 +54,13 @@ const Projects = () => {
         category: 'Website',
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550563/Ipl-auction_1703034762917_1703034773943_j15yei.avif',
         link: 'https://iplldashshiva.ccbp.tech/'
+      },
+      {
+        title: 'Assset Management',
+        description: 'Efficient tracking and optimization of organizational assets for maximum value and performance.',
+        category: 'Website',
+        image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1723896926/assetify_svtuk0.png',
+        link: 'https://shivarama99666.wixstudio.io/siva'
       },
       {
         title: 'ACCA Website',
