@@ -96,7 +96,7 @@ const Projects = () => {
           description: 'A website dedicated to providing AI training and resources to students, helping them develop skills in artificial intelligence and machine learning.',
           category: 'Website',
           image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548851/1701875113298_znxzun.jpg',
-          link: 'https://commalbshiva.ccbp.tech/'
+          link: 'https://commlab.vercel.app/'
         },
         {
           title: 'Online Shopping Application',
