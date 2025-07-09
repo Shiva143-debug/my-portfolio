@@ -48,13 +48,7 @@ const Projects = () => {
         image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548993/images_sie7bm.jpg',
         link: 'https://foodrestroapp.ccbp.tech/'
       },
-      {
-        title: 'IPL DashBoard Website',
-        description: 'An interactive platform offering live scores, team statistics, player performance data, and match updates for the Indian Premier League (IPL).',
-        category: 'Website',
-        image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550563/Ipl-auction_1703034762917_1703034773943_j15yei.avif',
-        link: 'https://iplldashshiva.ccbp.tech/'
-      },
+     
       {
         title: 'Assset Management',
         description: 'Efficient tracking and optimization of organizational assets for maximum value and performance.',
@@ -98,6 +92,13 @@ const Projects = () => {
           image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548851/1701875113298_znxzun.jpg',
           link: 'https://commlab.vercel.app/'
         },
+         {
+        title: 'IPL DashBoard Website',
+        description: 'An interactive platform offering live scores, team statistics, player performance data, and match updates for the Indian Premier League (IPL).',
+        category: 'Website',
+        image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550563/Ipl-auction_1703034762917_1703034773943_j15yei.avif',
+        link: 'https://ipl-dashboard-6279.vercel.app/'
+      },
         {
           title: 'Online Shopping Application',
           description: 'An e-commerce platform where users can browse, purchase, and review products online.',
