@@ -766,8 +766,8 @@ footer {
 @media (max-width: 576px) {
   .skill-list {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: start;
+    justify-content: center;
+    align-items: center;
   }
 }
 
