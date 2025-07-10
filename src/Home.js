@@ -62,7 +62,7 @@ const Home = () => {
 
                     <div className="row">
                         <div className="col-md-6 skill-category">
-                            <h3>Frontend Development</h3>
+                            <h3 className='text-center'>Frontend Development</h3>
                             <div className="skill-list">
                                 <div className="skill-item">
                                     <FontAwesomeIcon icon={faReact} className="skill-icon" />
@@ -92,7 +92,7 @@ const Home = () => {
                         </div>
 
                         <div className="col-md-6 skill-category">
-                            <h3>Backend Development</h3>
+                            <h3 className='text-center'>Backend Development</h3>
                             <div className="skill-list">
                                 <div className="skill-item">
                                     <FontAwesomeIcon icon={faNode} className="skill-icon" />
@@ -124,7 +124,7 @@ const Home = () => {
 
                     <div className="row mt-4">
                         <div className="col-md-6 skill-category">
-                            <h3>Tools & Technologies</h3>
+                            <h3 className='text-center'>Tools & Technologies</h3>
                             <div className="skill-list">
                                 <div className="skill-item">
                                     <FontAwesomeIcon icon={faGitAlt} className="skill-icon" />
@@ -146,7 +146,7 @@ const Home = () => {
                         </div>
 
                         <div className="col-md-6 skill-category">
-                            <h3>Other Skills</h3>
+                            <h3 className='text-center'>Other Skills</h3>
                             <div className="skill-list">
                                 <div className="skill-item">
                                     <FontAwesomeIcon icon={faGlobe} className="skill-icon" />
@@ -174,7 +174,7 @@ const Home = () => {
 
                     <div className="row mt-4">
                         <div className="col-md-6 skill-category">
-                            <h3>AI & Emerging Tech</h3>
+                            <h3 className='text-center'>AI & Emerging Tech</h3>
                             <div className="skill-list">
                                 <div className="skill-item">
                                     <span className="skill-icon">🤖</span>

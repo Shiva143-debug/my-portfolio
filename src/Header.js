@@ -2,9 +2,8 @@
 import React, { useEffect, useState } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
-import { motion } from 'framer-motion';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+// import './App.css';
 import GradientText from './components/GradientText';
 
 const Header = () => {
@@ -29,7 +28,7 @@ const Header = () => {
 
     return (
         <Navbar expand="lg" expanded={expanded} onToggle={() => setExpanded(!expanded)} className={`navbar fixed-top ${scrolled ? 'scrolled' : ''}`} variant="dark">
-            <div className="container-fluid  d-flex justify-content-between align-items-center">
+            <div className="container-fluid d-flex justify-content-between align-items-center">
                 <Navbar.Brand href="/" className="me-auto">
                     <GradientText firstName="SHIVA SHANKARA" lastName="PRASAD" />
                 </Navbar.Brand>
