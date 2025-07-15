@@ -33,7 +33,7 @@ const Projects = () => {
       description: 'A video-sharing platform where users can upload, view, and comment on videos.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547014/0dfe05d1f843d2705c096b93ccb80e54_original_u42j1g.jpg',
-      link: 'https://youtubecln.vercel.app/home'
+      link: 'https://youtubecln.vercel.app'
     },
     {
       title: 'JobbyApp',
