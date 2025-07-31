@@ -40,7 +40,7 @@ const Projects = () => {
       description: 'A job search application where users can find and apply for job openings.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718546328/jobby-app-jobs-success-lg-output-v0_vb2df6.png',
-      link: 'https://job-ap.vercel.app/home'
+      link: 'https://job-ap.vercel.app/'
     },
     {
       title: 'Instagram Clone',
