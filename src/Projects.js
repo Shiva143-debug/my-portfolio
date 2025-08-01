@@ -26,8 +26,9 @@ const Projects = () => {
       description: 'An e-commerce platform where users can browse, purchase, and review products online.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547448/360_F_241431868_8DFQpCcmpEPVG0UvopdztOAd4a6Rqsoo_oftrto.jpg',
-      link: 'https://nxttrendsshiva.ccbp.tech/login'
+      link: 'https://nxt-trends-ten.vercel.app/login'
     },
+    // https://nxttrendsshiva.ccbp.tech/login
     {
       title: 'YouTube Clone',
       description: 'A video-sharing platform where users can upload, view, and comment on videos.',
