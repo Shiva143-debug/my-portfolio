@@ -26,7 +26,8 @@ const Projects = () => {
       description: 'An e-commerce platform where users can browse, purchase, and review products online.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547448/360_F_241431868_8DFQpCcmpEPVG0UvopdztOAd4a6Rqsoo_oftrto.jpg',
-      link: 'https://nxt-trends-ten.vercel.app/login'
+      // link: 'https://nxt-trends-ten.vercel.app/login'
+      link:'https://nxt-trends.shiva-tech.in'
     },
     // https://nxttrendsshiva.ccbp.tech/login
     {
@@ -34,7 +35,8 @@ const Projects = () => {
       description: 'A video-sharing platform where users can upload, view, and comment on videos.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547014/0dfe05d1f843d2705c096b93ccb80e54_original_u42j1g.jpg',
-      link: 'https://youtubecln.vercel.app'
+      // link: 'https://youtubecln.vercel.app'
+      link:'https://youtube-cln.shiva-tech.in'
     },
     {
       title: 'JobbyApp',
@@ -70,7 +72,8 @@ const Projects = () => {
       description: 'Association of Chartered Certified Accountants providing resources, member ship details and examination information.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718548099/download_exh15s.jpg',
-      link: 'https://medi-mocha.vercel.app/'
+      // link: 'https://medi-mocha.vercel.app/'
+      link:'https://medi.shiva-tech.in'
     },
 
     {
@@ -78,21 +81,24 @@ const Projects = () => {
       description: 'Sleeve sits on the desktop, displaying and controlling the music you’re currently playing insong1 Image of an app iconApple Music, Image of an app iconsong2 Spotify.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718549971/1717649630059_rsfdom.jpg',
-      link: 'https://swio-app-7gnw.vercel.app/'
+      // link: 'https://swio-app-7gnw.vercel.app/'
+      link:'https://swio.shiva-tech.in'
     },
     {
       title: 'Travel Website',
       description: 'A comprehensive platform providing trip details, itineraries, and secure payment methods for booking your next adventure.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550304/download_1_xaddfy.jpg',
-      link: 'https://traveltourism.vercel.app/'
+      // link: 'https://traveltourism.vercel.app/'
+      link:'https://tourism.shiva-tech.in'
     },
     {
       title: 'PayInstaCard Website',
       description: 'A general website featuring university information, testimonials, and services related to the PayInstaCard platform.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548305/1708863287801_yzegzq.jpg',
-      link: 'https://payinsta.vercel.app/'
+      // link: 'https://payinsta.vercel.app/'
+      link:'https://university.shiva-tech.in'
     },
     {
       title: 'CommLAB Website',
@@ -106,7 +112,8 @@ const Projects = () => {
       description: 'An interactive platform offering live scores, team statistics, player performance data, and match updates for the Indian Premier League (IPL).',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550563/Ipl-auction_1703034762917_1703034773943_j15yei.avif',
-      link: 'https://ipl-dashboard-6279.vercel.app/'
+      // link: 'https://ipl-dashboard-6279.vercel.app/'
+      link:'https://ipl.shiva-tech.in'
     },
 
 
