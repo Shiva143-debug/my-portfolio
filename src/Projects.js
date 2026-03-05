@@ -105,7 +105,8 @@ const Projects = () => {
       description: 'A website dedicated to providing AI training and resources to students, helping them develop skills in artificial intelligence and machine learning.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548851/1701875113298_znxzun.jpg',
-      link: 'https://commlab.vercel.app/'
+      // link: 'https://commlab.vercel.app/'
+      link:'https://commlab.shiva-tech.in'
     },
     {
       title: 'IPL DashBoard Website',
