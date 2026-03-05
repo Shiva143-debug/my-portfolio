@@ -11,7 +11,8 @@ const Projects = () => {
       description: 'The "Billing Application" is a software tool that streamlines invoicing, payment tracking, and financial reporting for businesses.',
       category: 'Web Application',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718462762/e-billing_yibcpa.webp',
-      link: 'https://billpp.vercel.app/'
+      // link: 'https://billpp.vercel.app/'
+      link:'https://billpro.shiva-tech.in'
     },
     {
       title: 'Expenditure Application',
