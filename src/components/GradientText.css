@@ -12,10 +12,13 @@
   letter-spacing: 1px;
 }
 
+<<<<<<< HEAD
 .gradient-text-name--mobile {
   display: none;
 }
 
+=======
+>>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
 .gradient-letter {
   display: inline-block;
   background: linear-gradient(90deg, #4169E1, #e6e6fa);
@@ -54,6 +57,7 @@
 }
 
 @media (max-width: 768px) {
+<<<<<<< HEAD
   .gradient-text-name--desktop {
     display: none;
   }
@@ -74,5 +78,13 @@
   .gradient-text-title {
     font-size: 0.55rem;
     letter-spacing: 0.5px;
+=======
+  .gradient-text-name {
+    font-size: 1.5rem;
+  }
+  
+  .gradient-text-title {
+    font-size: 0.7rem;
+>>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
   }
 }

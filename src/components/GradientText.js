@@ -63,16 +63,23 @@ const GradientText = ({ firstName = "JOHN", lastName = "DOE" }) => {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
+<<<<<<< HEAD
       <div className="gradient-text-name gradient-text-name--desktop">
+=======
+      <div className="gradient-text-name">
+>>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
         {renderLetters(firstName)}
         <span className="gradient-text-space">&nbsp;</span>
         {renderLetters(lastName, firstName.length + 1)}
       </div>
+<<<<<<< HEAD
       <div className="gradient-text-name gradient-text-name--mobile">
         {renderLetters("SHIVA")}
         <span className="gradient-text-space">&nbsp;</span>
         {renderLetters("S.P", 6)}
       </div>
+=======
+>>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
       <motion.div 
         className="gradient-text-title"
         initial={{ opacity: 0, x: -20 }}
