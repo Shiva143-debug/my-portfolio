@@ -43,11 +43,7 @@ const Projects = () => {
       title: 'JobbyApp',
       description: 'A job search application where users can find and apply for job openings.',
       category: 'frontend',
-<<<<<<< HEAD
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1784643278/Screenshot_2026-07-21_194427_ebh6ry.png',
-=======
-      image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718546328/jobby-app-jobs-success-lg-output-v0_vb2df6.png',
->>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
       // link: 'https://job-ap.vercel.app/'
       link:'https://job-portal.shiva-tech.in'
     },
@@ -132,7 +128,6 @@ const Projects = () => {
   const FrontendApplications = projects.filter(project => project.category === 'frontend');
   const webApplications = projects.filter(project => project.category === 'Web Application');
   const eCommApplications = projects.filter(project => project.category === 'E-commerce Application');
-<<<<<<< HEAD
   void eCommApplications;
 
   return (
@@ -160,45 +155,6 @@ const Projects = () => {
           {websites.map((project, index) => (
             <ProjectCard key={index} project={project} index={index} />
           ))}
-=======
-
-  return (
-    <section className="projects-section" >
-      <div >
-        {/* <h1 className='text-center'>Projects</h1> */}
-        <div className="project-container">
-          <h2>Web Applications</h2>
-          {/* <p>* Which are responsive can view on mobile also.</p> */}
-          <div className="project-list" id="webApplication">
-            {webApplications.map((project, index) => (
-              <ProjectCard key={index} project={project} index={index} />
-            ))}
-          </div>
-
-          <h2>Frontend Applications</h2>
-          <p><strong>Credentials:</strong> <i>UserName</i>: rahul <br/><i>Password</i>: rahul@2021</p>
-          <div className="project-list">
-            {FrontendApplications.map((project, index) => (
-              <ProjectCard key={index} project={project} index={index} />
-            ))}
-          </div>
-
-          <h2>Websites</h2>
-          <div className="project-list" id="website">
-            {websites.map((project, index) => (
-              <ProjectCard key={index} project={project} index={index} />
-            ))}
-          </div>
-
-          {/* <h2>E-commerce Applications</h2>
-            <p>use this credentials for login UserName:rahul Password:rahul@2021</p>
-            
-            <div className="project-list" id="ecommerceApplication">
-              {eCommApplications.map((project, index) => (
-                <ProjectCard key={index} project={project} index={index} />
-              ))}
-            </div> */}
->>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
         </div>
       </div>
     </section>

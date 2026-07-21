@@ -5,7 +5,6 @@ import "./App.css";
 const ProjectCard = ({ project, index }) => {
     const { title, description, image, link } = project;
     const cardRef = useRef(null);
-<<<<<<< HEAD
 
     useEffect(() => {
         const node = cardRef.current;
@@ -28,38 +27,6 @@ const ProjectCard = ({ project, index }) => {
 
     return (
         <div className="project-card reveal" ref={cardRef}>
-=======
-    
-    useEffect(() => {
-        if (cardRef.current) {
-            cardRef.current.style.setProperty('--i', index + 1);
-        }
-        
-        const observer = new IntersectionObserver(
-            (entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.opacity = 1;
-                    }
-                });
-            },
-            { threshold: 0.1 }
-        );
-        
-        if (cardRef.current) {
-            observer.observe(cardRef.current);
-        }
-        
-        return () => {
-            if (cardRef.current) {
-                observer.unobserve(cardRef.current);
-            }
-        };
-    }, [index]);
-  
-    return (
-        <div className="project-card" ref={cardRef}>
->>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
             <img src={image} alt={title} className="project-image" />
             <h3>{title}</h3>
             <p>{description}</p>
@@ -70,8 +37,4 @@ const ProjectCard = ({ project, index }) => {
     );
 };
 
-<<<<<<< HEAD
 export default ProjectCard;
-=======
-export default ProjectCard;
->>>>>>> b8484657ad0ef229fc8f2b1f64ffacdedf29952c
