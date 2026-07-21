@@ -80,7 +80,7 @@ const Home = () => {
                 <div className="hero-orb one"></div>
                 <div className="hero-orb two"></div>
                 <div className="intro text-center">
-                    <span className="eyebrow">Full-Stack Developer &amp; UI Engineer</span>
+                    <span className="eyebrow mt-5">Full-Stack Developer &amp; UI Engineer</span>
                     <h1>I Build Products<br/>That People Love to Use</h1>
                     <p>I turn complex problems into clean, fast, and beautiful web applications. From concept to deployment — I own the entire stack.</p>
                     <div className="hero-cta">
