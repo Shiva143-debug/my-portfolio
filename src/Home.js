@@ -85,7 +85,7 @@ const Home = () => {
                     <p>I turn complex problems into clean, fast, and beautiful web applications. From concept to deployment — I own the entire stack.</p>
                     <div className="hero-cta">
                         <a href="/#service" className="btn-primary-glass">View My Services</a>
-                        <a href="/#followUsSection" className="btn-ghost-glass">Get In Touch.</a>
+                        <a href="/#followUsSection" className="btn-ghost-glass">Get In Touch</a>
                     </div>
                 </div>
             </div>
