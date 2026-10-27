@@ -989,7 +989,7 @@ footer {
   .service-tile-media { height: 120px; }
 
   .project-card { padding: 14px; }
-  .project-image { height: 140px; }
+  /* .project-image { height: 140px; } */
 
   .follow-us-section-heading { font-size: 1.6rem; margin-bottom: 20px; }
   .icon-link { width: 48px; height: 48px; margin: 0 8px; }
@@ -1040,7 +1040,7 @@ footer {
   .service-card-description { font-size: 0.78rem; line-height: 1.45; }
 
   .project-card { padding: 12px; border-radius: 14px; }
-  .project-image { height: 120px; border-radius: 10px; }
+  /* .project-image { height: 120px; border-radius: 10px; } */
   .project-card h3 { font-size: 0.95rem; margin: 12px 0 8px; }
   .project-card p { font-size: 0.78rem; }
 

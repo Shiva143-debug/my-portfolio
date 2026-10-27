@@ -70,8 +70,8 @@ const GradientText = ({ firstName = "JOHN", lastName = "DOE" }) => {
       </div>
       <div className="gradient-text-name gradient-text-name--mobile">
         {renderLetters("SHIVA")}
-        <span className="gradient-text-space">&nbsp;</span>
-        {renderLetters("S.P", 6)}
+        {/* <span className="gradient-text-space">&nbsp;</span>
+        {renderLetters("SHANKARA PRASAD", 6)} */}
       </div>
       <motion.div 
         className="gradient-text-title"

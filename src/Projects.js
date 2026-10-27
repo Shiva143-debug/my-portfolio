@@ -4,7 +4,7 @@ import ProjectCard from './ProjectCard';
 const Projects = () => {
   const projects = [
     {
-      title: 'Billing Application',
+      title: 'BillPro (E-Billing)',
       description: 'The "Billing Application" is a software tool that streamlines invoicing, payment tracking, and financial reporting for businesses.',
       category: 'Web Application',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718462762/e-billing_yibcpa.webp',
@@ -12,7 +12,7 @@ const Projects = () => {
     },
 
     {
-      title: 'Expenditure Application',
+      title: 'Expenditure (Expense Management)',
       description: 'The "Expenditure Application" is a financial management tool designed to help users track and manage their expenses efficiently.',
       category: 'Web Application',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1718462773/expense-app-2-1024x512_a8gg5m.jpg',
@@ -23,7 +23,7 @@ const Projects = () => {
     // MOBILE APPLICATION
     // ============================
     {
-      title: 'Expenditure Mobile Application',
+      title: 'Expenditure (Expense Management)',
       description: 'A mobile financial management application that helps users manage expenses, track earnings and savings, maintain financial records, and generate reports.',
       category: 'Mobile Application',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1790404167/ex-logo_dufa7r.jpg',
@@ -31,9 +31,18 @@ const Projects = () => {
       version: '1.0.0',
       size: '64 MB',
     },
+    {
+      title: 'SnapShine (Car Wash Management)',
+      description:'A car wash management mobile application that allows customers to book car wash services, manage vehicles, track bookings, and receive real-time booking updates.',
+      category: 'Mobile Application',
+      image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1791108478/download_rd2dri.jpg',
+      apk:'YOUR_SNAPSHINE_GITHUB_RELEASE_URL',
+      version: '1.0.0',
+      size: 'YOUR_APK_SIZE',
+    },
 
     {
-      title: 'Online Shopping Application',
+      title: 'NXT Trends',
       description: 'An e-commerce platform where users can browse, purchase, and review products online.',
       category: 'frontend',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718547448/360_F_241431868_8DFQpCcmpEPVG0UvopdztOAd4a6Rqsoo_oftrto.jpg',
@@ -65,7 +74,7 @@ const Projects = () => {
     },
 
     {
-      title: 'Food Munch Website',
+      title: 'Food Munch',
       description: 'A website offering a wide range of recipes, cooking tips, and food reviews for culinary enthusiasts.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548993/images_sie7bm.jpg',
@@ -81,7 +90,7 @@ const Projects = () => {
     },
 
     {
-      title: 'ACCA Website',
+      title: 'ACCA ',
       description: 'Association of Chartered Certified Accountants providing resources, member ship details and examination information.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/c_thumb,w_200,g_face/v1718548099/download_exh15s.jpg',
@@ -89,7 +98,7 @@ const Projects = () => {
     },
 
     {
-      title: 'Sleeve Website',
+      title: 'Sleeve Music Player',
       description: 'Sleeve sits on the desktop, displaying and controlling the music you’re currently playing insong1 Image of an app iconApple Music, Image of an app iconsong2 Spotify.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718549971/1717649630059_rsfdom.jpg',
@@ -97,7 +106,7 @@ const Projects = () => {
     },
 
     {
-      title: 'Travel Website',
+      title: 'Travel (Tourism)',
       description: 'A comprehensive platform providing trip details, itineraries, and secure payment methods for booking your next adventure.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550304/download_1_xaddfy.jpg',
@@ -105,7 +114,7 @@ const Projects = () => {
     },
 
     {
-      title: 'PayInstaCard Website',
+      title: 'PayInstaCard',
       description: 'A general website featuring university information, testimonials, and services related to the PayInstaCard platform.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548305/1708863287801_yzegzq.jpg',
@@ -113,7 +122,7 @@ const Projects = () => {
     },
 
     {
-      title: 'CommLAB Website',
+      title: 'CommLAB (AI Training)',
       description: 'A website dedicated to providing AI training and resources to students, helping them develop skills in artificial intelligence and machine learning.',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718548851/1701875113298_znxzun.jpg',
@@ -121,7 +130,7 @@ const Projects = () => {
     },
 
     {
-      title: 'IPL DashBoard Website',
+      title: 'IPL DashBoard',
       description: 'An interactive platform offering live scores, team statistics, player performance data, and match updates for the Indian Premier League (IPL).',
       category: 'Website',
       image: 'https://res.cloudinary.com/dxgbxchqm/image/upload/v1718550563/Ipl-auction_1703034762917_1703034773943_j15yei.avif',
